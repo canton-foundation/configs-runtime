@@ -1,8 +1,8 @@
 {
   "contract": {
-    "contract_id": "000c73200faf13677f464dac14a5ead989f0336c6c62300945d5bd19d9b9e08d7cca121220ae3650066c055f22f93003b949adfacbced2539a0b2b4ee5877c8f2be68d21b6",
-    "created_at": "2026-02-05T11:03:26.881858Z",
-    "created_event_blob": "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",
+    "contract_id": "0095f335fc5b324c5ad7e73c91bb992d9f0f5f340ab6eca1b6914a0681a379d5c1ca121220c87e7574ac6ba8acdbc5d41ed4bac1c9790c49584c340ea495a26f4058c2944d",
+    "created_at": "2026-02-12T18:00:22.737149Z",
+    "created_event_blob": "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",
     "payload": {
       "configSchedule": {
         "futureValues": [],
@@ -41,7 +41,7 @@
                   "appRewardPercentage": "0.4",
                   "featuredAppRewardCap": "20000.0",
                   "optDevelopmentFundPercentage": null,
-                  "optValidatorFaucetCap": "3.33",
+                  "optValidatorFaucetCap": "2.5",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.12"
@@ -56,7 +56,7 @@
                   "appRewardPercentage": "0.62",
                   "featuredAppRewardCap": "1.5",
                   "optDevelopmentFundPercentage": null,
-                  "optValidatorFaucetCap": "3.33",
+                  "optValidatorFaucetCap": "2.5",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.18"
@@ -71,7 +71,7 @@
                   "appRewardPercentage": "0.69",
                   "featuredAppRewardCap": "1.5",
                   "optDevelopmentFundPercentage": null,
-                  "optValidatorFaucetCap": "3.33",
+                  "optValidatorFaucetCap": "2.5",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.21"
@@ -86,7 +86,7 @@
                   "appRewardPercentage": "0.75",
                   "featuredAppRewardCap": "1.5",
                   "optDevelopmentFundPercentage": null,
-                  "optValidatorFaucetCap": "3.33",
+                  "optValidatorFaucetCap": "2.5",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.2"
