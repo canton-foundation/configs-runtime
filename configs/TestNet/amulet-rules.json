@@ -29,6 +29,7 @@
               ]
             }
           },
+          "externalPartyConfigStateTickDuration": null,
           "featuredAppActivityMarkerAmount": "1.0",
           "issuanceCurve": {
             "futureValues": [
@@ -138,6 +139,7 @@
           "transferPreapprovalFee": null
         }
       },
+      "contractStateSchemaVersion": null,
       "dso": "DSO::1220f22a8b8f2d813c25b9a684dc4dd52b532a0174d8e73a13cdf2baabfff7518337",
       "isDevNet": false
     },
