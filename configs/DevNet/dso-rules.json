@@ -26,6 +26,7 @@
           "microseconds": "70000000"
         },
         "maxTextLength": "1024",
+        "nextScheduledLogicalSynchronizerUpgrade": null,
         "nextScheduledSynchronizerUpgrade": {
           "migrationId": "1",
           "time": "2025-11-12T14:00:00Z"
