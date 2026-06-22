@@ -114,6 +114,7 @@
             "wallet": "0.1.19",
             "walletPayments": "0.1.18"
           },
+          "rewardConfig": null,
           "tickDuration": {
             "microseconds": "600000000"
           },
