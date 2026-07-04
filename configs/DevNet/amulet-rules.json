@@ -140,6 +140,7 @@
             "maxNumInputs": "100",
             "maxNumLockHolders": "50",
             "maxNumOutputs": "100",
+            "tokenStandardMaxTTL": null,
             "transferFee": {
               "initialRate": "0.0",
               "steps": []
