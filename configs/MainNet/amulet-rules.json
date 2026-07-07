@@ -137,6 +137,7 @@
               "steps": []
             }
           },
+          "transferPreapprovalBaseDuration": null,
           "transferPreapprovalFee": null
         }
       },
