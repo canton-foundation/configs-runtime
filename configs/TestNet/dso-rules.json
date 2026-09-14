@@ -36,6 +36,7 @@
         "svOnboardingRequestTimeout": {
           "microseconds": "86400000000"
         },
+        "svOperationsSwitchOverTimes": null,
         "synchronizerNodeConfigLimits": {
           "cometBft": {
             "maxNodeIdLength": "50",

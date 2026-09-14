@@ -7,6 +7,7 @@
       "configSchedule": {
         "futureValues": [],
         "initialValue": {
+          "amuletSwitchOverTimes": null,
           "decentralizedSynchronizer": {
             "activeSynchronizer": "global-domain::1220f22a8b8f2d813c25b9a684dc4dd52b532a0174d8e73a13cdf2baabfff7518337",
             "fees": {
@@ -29,6 +30,7 @@
               ]
             }
           },
+          "developmentFundManagerBlacklist": null,
           "externalPartyConfigStateTickDuration": null,
           "featuredAppActivityMarkerAmount": "1.0",
           "issuanceCurve": {
@@ -105,6 +107,7 @@
               "validatorRewardPercentage": "0.05"
             }
           },
+          "minDevelopmentFundMintingDelay": null,
           "optDevelopmentFundManager": "DevelopmentFundManager::1220c0120360d3d618f5b7bf69fcb4814bc7afdc3f59af7c3ed5904e8d87924790d2",
           "packageConfig": {
             "amulet": "0.1.22",
